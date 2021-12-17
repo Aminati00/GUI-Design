@@ -1,0 +1,7 @@
+/dist/
+/build/
+/nbproject/
+build.xml
+manifest.mf
+/src/chat/utility/log.csv
+/src/chat/utility/log.csv.1
