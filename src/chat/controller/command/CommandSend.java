@@ -43,6 +43,7 @@ public class CommandSend implements CommandInterface
   @Override
   public void execute()
   {
+      System.out.println("hallo");
     String msg = view.getTfNachricht().getText();
     if(!msg.isBlank())
     {
